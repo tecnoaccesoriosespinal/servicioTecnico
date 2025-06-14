@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <div style={{ textAlign: 'center', marginTop: '3rem' }}>
-      <h1>🚀 Servicio Técnico TECNOACCESORIOS</h1>
+      <h1>🚀 Servicio Técnico TECNOACCESORIOS CAMBIOS</h1>
       <p>¡Tu frontend está funcionando correctamente!</p>
     </div>
   );
